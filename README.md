@@ -1,8 +1,4 @@
-- 💻 I’m interested in Programming
 - 🌱 I'm interested in ⌨️ 🏎 📷 🎥
 - 🔖 I’m currently learning Kotlin, Spring Framework, MSA ...
 
-<!---
-dumadel/dumadel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![dumadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dumadel&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
